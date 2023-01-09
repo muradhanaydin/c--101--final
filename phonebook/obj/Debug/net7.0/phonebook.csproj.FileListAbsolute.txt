@@ -1,0 +1,15 @@
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\bin\Debug\net7.0\phonebook.exe
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\bin\Debug\net7.0\phonebook.deps.json
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\bin\Debug\net7.0\phonebook.runtimeconfig.json
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\bin\Debug\net7.0\phonebook.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\bin\Debug\net7.0\phonebook.pdb
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\refint\phonebook.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.pdb
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\phonebook.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\phonebook\obj\Debug\net7.0\ref\phonebook.dll
