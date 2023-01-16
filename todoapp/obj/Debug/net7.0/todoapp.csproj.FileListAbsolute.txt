@@ -1,0 +1,15 @@
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.csproj.AssemblyReference.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.AssemblyInfoInputs.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.AssemblyInfo.cs
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.csproj.CoreCompileInputs.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\bin\Debug\net7.0\todoapp.exe
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\bin\Debug\net7.0\todoapp.deps.json
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\bin\Debug\net7.0\todoapp.runtimeconfig.json
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\bin\Debug\net7.0\todoapp.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\bin\Debug\net7.0\todoapp.pdb
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\refint\todoapp.dll
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.pdb
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\todoapp.genruntimeconfig.cache
+C:\Users\murad\OneDrive\Belgeler\PatikaDev\todoapp\obj\Debug\net7.0\ref\todoapp.dll
